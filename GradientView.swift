@@ -3,7 +3,7 @@
 //  University
 //
 //  Created by Xpertcube on 25/07/17.
-//  Copyright © 2017 AppyMomentsApps. All rights reserved.
+//  Copyright © 2017 VishnuPrasad. All rights reserved.
 //
 
 import UIKit
